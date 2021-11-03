@@ -1,0 +1,6 @@
+namespace ExamApiSBA.Areas.HelpPage.ModelDescriptions
+{
+    public class DictionaryModelDescription : KeyValuePairModelDescription
+    {
+    }
+}
